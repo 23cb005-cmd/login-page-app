@@ -1,0 +1,5 @@
+https://23cb005-cmd.github.io/login-page-app/
+
+Note: this is the frontend-only demo. GitHub Pages cannot host the Express backend,
+so the deployed client automatically falls back to an identical client-side mock
+credential check when the real API is unreachable. See README.md for test credentials.
